@@ -15,13 +15,13 @@ Adjectives
 Adverb = Adjective + ly [ex: Carefully, easily, terribly]
 Verbs
 	Main verbs (Infinitive/Past/Participle)
-		To be / was, were / been 
+		To be, am, is, are / was, were / been 
 		Come / came / come
-		Do / did / done
+		Do, does / did / done
 		Get / got / got
 		go / went / gone
 		Give / gave / given
-		Have / had / had
+		Have, has / had / had
 		Keep / kept / kept
 		Let / let / let
 		Make / made / made
