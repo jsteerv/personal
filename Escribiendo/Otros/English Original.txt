@@ -33,7 +33,7 @@ Verbs
 		Take / took / taken
 	Tenses: Present, past, future
 	Mode: Infinitive, progressive, perfect
-	Modal Verbs: Can(puedo), could(pude), should(deberia), had better(deberia), ought to(deberia), must(debe), may(puede), might(podria), would(terminacion 'ria'), able(capaz), have to(tengo que)
+	Modal Verbs: Can(puedo), could(pude), should(deberia), had better(deberia), ought to(deberia), must(debe), may(puede), might(podria), would(terminacion 'ria'), able(capaz), have to(tengo que), would have ppl(habria, hubiera,tendria)
 Auxiliary verbs
 	To be
 		Present: Am/are/is
